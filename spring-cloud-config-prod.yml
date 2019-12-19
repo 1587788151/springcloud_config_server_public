@@ -1,1 +1,2 @@
-prod
+config:
+  hello: hello im prod
